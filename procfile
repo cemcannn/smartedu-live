@@ -1,1 +1,1 @@
-web: gunicorn smartedu.wsgis
+web: gunicorn smartedu.wsgi
